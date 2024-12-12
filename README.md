@@ -10,24 +10,26 @@
 
 [Documentation](https://coolrequest.dev)
 
-![Static Badge](https://img.shields.io/badge/version-v2024.6.1-brightgreen)
+![Static Badge](https://img.shields.io/badge/version-v2024.8.1-brightgreen)
 
 This plugin is used for debugging HTTP interfaces and schedulers in IntelliJ IDEA.
 
-![image](https://github.com/houxinlin/cool-request/assets/38684327/31d80e97-fb22-4651-96fb-97649868abd8)
+![image](https://github.com/user-attachments/assets/3da4a688-6fce-464e-bf42-f9e63ed17a27)
 
 
 
 
 # Screenshots
-   ![img.png](doc/spring-page.png)
 
-   ![img.png](doc/request-page.png)
+![image](https://github.com/user-attachments/assets/ba977e75-3bc9-4910-97c5-15183827cc38)
+
+![image](https://github.com/user-attachments/assets/52006856-c58e-40d6-96b0-d14b6c04e299)
 
 # Usage Steps:
 1. Go to Setting->Plugins, search for Cool Request, and click install.
 
-![img.png](doc/install.png)
+![image](https://github.com/user-attachments/assets/3c439c3c-cb2c-4833-a40c-6069693140bb)
+
 
 
 ## Features
